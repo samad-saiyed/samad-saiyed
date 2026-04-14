@@ -1,26 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samad Saiyed
+# Samad Saiyed
+
+Senior Full Stack Engineer · Building developer tools at PlaneLabs
+
+3+ years shipping production-grade web and mobile products.
+Currently building in public — open source tools for developers.
+
+**Stack:** Next.js · Node.js · React Native · PostgreSQL · AWS · TypeScript
+
+**Open to:** Full Stack Engineer roles in Gujarat (hybrid/onsite)
+
+📬 samad.saiyed.ss@gmail.com · linkedin.com/in/samad-saiyed
+🖥️  See my portfolio at [samad-saiyed.com](http://samad-saiyed.vercel.app/)
+
 ====================================================================================================================================
-
-I'm a Full-Stack Web Developer, from India 🇮🇳
------------------------------------------------
-
-A passionate Full-Stack Web Developer with expertise in building scalable and efficient applications. 
-
-🔧 Tech Stack: 
-
-Frontend: Next.js, React.js 
-
-Backend: Node.js, Express.js 
-
-Databases: MongoDB, PostgreSQL, MSSQL
-
-I enjoy solving complex problems, optimizing performance, and continuously learning new technologies. Let's build something amazing together! 🚀
-
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [samad-saiyed.com](http://samad-saiyed.vercel.app/)
-* ✉️  You can contact me at [samad.saiyed.ss@gmail.com](mailto:samad.saiyed.ss@gmail.com)
-* 🧠  I'm currently learning Redis, BullMQ and Vector Databases
-* 🤝  I'm open to collaborating on NextJS, ReactJS, NodeJS, ExpressJS Projects
 
 <a href="https://www.github.com/samad-scs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/samad-scs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

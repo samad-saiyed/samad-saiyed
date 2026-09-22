@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JobPlane<br>👯 I’m looking to collaborate on YeetGit<br>🌱 I’m currently learning Springboot<br>💬 Ask me about best ways to use AI tools in development<br>⚡ Fun fact : AI won’t replace good developers
-
+I build tools I personally want to use. Simple, fast, and respectful of users.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samad-saiyed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saiyed_samad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samad.saiyed.ss@gmail.com) 
